@@ -82,6 +82,8 @@ namespace Homework_task_4
             //        Console.WriteLine("yanlisdir");
             //        break;
             #endregion
+            #region 5 task
+            #endregion
 
         }
     }
